@@ -1,0 +1,14 @@
+D:\csharp_projeleri\veriyapilari\bin\Debug\net9.0\veriyapilari.exe
+D:\csharp_projeleri\veriyapilari\bin\Debug\net9.0\veriyapilari.deps.json
+D:\csharp_projeleri\veriyapilari\bin\Debug\net9.0\veriyapilari.runtimeconfig.json
+D:\csharp_projeleri\veriyapilari\bin\Debug\net9.0\veriyapilari.dll
+D:\csharp_projeleri\veriyapilari\bin\Debug\net9.0\veriyapilari.pdb
+D:\csharp_projeleri\veriyapilari\obj\Debug\net9.0\veriyapilari.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_projeleri\veriyapilari\obj\Debug\net9.0\veriyapilari.AssemblyInfoInputs.cache
+D:\csharp_projeleri\veriyapilari\obj\Debug\net9.0\veriyapilari.AssemblyInfo.cs
+D:\csharp_projeleri\veriyapilari\obj\Debug\net9.0\veriyapilari.csproj.CoreCompileInputs.cache
+D:\csharp_projeleri\veriyapilari\obj\Debug\net9.0\veriyapilari.dll
+D:\csharp_projeleri\veriyapilari\obj\Debug\net9.0\refint\veriyapilari.dll
+D:\csharp_projeleri\veriyapilari\obj\Debug\net9.0\veriyapilari.pdb
+D:\csharp_projeleri\veriyapilari\obj\Debug\net9.0\veriyapilari.genruntimeconfig.cache
+D:\csharp_projeleri\veriyapilari\obj\Debug\net9.0\ref\veriyapilari.dll
