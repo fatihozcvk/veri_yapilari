@@ -17,7 +17,7 @@ Bu çalışmada olanlar
 
 
 
-using System.Linq.Expressions;
+/*
 
 namespace Program
 {
@@ -265,3 +265,4 @@ namespace Program
     }
 }
 
+*/
