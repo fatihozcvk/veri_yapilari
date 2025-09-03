@@ -12,3 +12,4 @@ D:\csharp_projeleri\veriyapilari\obj\Debug\net9.0\refint\veriyapilari.dll
 D:\csharp_projeleri\veriyapilari\obj\Debug\net9.0\veriyapilari.pdb
 D:\csharp_projeleri\veriyapilari\obj\Debug\net9.0\veriyapilari.genruntimeconfig.cache
 D:\csharp_projeleri\veriyapilari\obj\Debug\net9.0\ref\veriyapilari.dll
+D:\csharp_projeleri\veriyapilari\obj\Debug\net9.0\veriyapilari.sourcelink.json

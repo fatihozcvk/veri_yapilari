@@ -14,8 +14,8 @@ Bu çalışmada olanlar
 */
 
 
-using System.ComponentModel;
 
+/*
 namespace App
 {
     class Program
@@ -58,7 +58,6 @@ namespace App
                         index = Convert.ToInt32(Console.ReadLine());
                         liste1.AradanSil(index);
                         break;
-
                     case 0:
                         break;
                     default:
@@ -198,7 +197,7 @@ namespace App
             }
             else
             {
-                Node temp;
+                Node? temp;
                 Node? temp2;
                 temp2 = null;
                 temp = Head;
@@ -223,7 +222,7 @@ namespace App
 
             Node newNode = new Node(data);
             int i = 0;
-            Node temp = Head;
+            Node? temp = Head;
             while (temp.Next != null && i < index - 1)
             {
                 temp = temp.Next;
@@ -236,7 +235,7 @@ namespace App
 
             newNode.Next = temp.Next;
             temp.Next = newNode;
-            
+
         }
 
         public void AradanSil(int index)
@@ -246,7 +245,7 @@ namespace App
                 Console.WriteLine("liste boş, silinecek bir şey yok");
             }
 
-            Node temp = Head;
+            Node? temp = Head;
             int i = 0;
 
             while (temp.Next != null && i < index - 1)
@@ -263,3 +262,5 @@ namespace App
     }
 
 }
+*/
+
