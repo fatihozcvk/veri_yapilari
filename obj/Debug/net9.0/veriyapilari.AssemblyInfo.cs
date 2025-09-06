@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("veriyapilari")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aebd7bd25d04addf37bc43b5709993a3a560a8c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbef246add207fd933c1be74e5ba313bd8e40f7e")]
 [assembly: System.Reflection.AssemblyProductAttribute("veriyapilari")]
 [assembly: System.Reflection.AssemblyTitleAttribute("veriyapilari")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

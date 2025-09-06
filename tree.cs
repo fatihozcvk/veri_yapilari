@@ -6,6 +6,8 @@
 
 
 */
+
+/*
 namespace Tree
 {
     class Program
@@ -31,8 +33,8 @@ namespace Tree
             Console.WriteLine(bst.ElemanSayisi(bst.Root));
             Console.WriteLine();
             Console.WriteLine(bst.Yukseklik(bst.Root));
-            
-            
+
+
         }
     }
 
@@ -136,15 +138,19 @@ namespace Tree
                 l = Yukseklik(root.Left) + 1;
                 r = Yukseklik(root.Right) + 1;
 
-                if (l > r) {
+                if (l > r)
+                {
                     return l + 1;
                 }
-                else {
+                else
+                {
                     return r + 1;
                 }
             }
         }
-            
+
     }
 }
+
+*/
 
